@@ -1,6 +1,6 @@
 provider: heroku
 api_key:
-secure:"31562ccf-818f-48b5-8cf3-1806c5b8bfac"
+	secure: 31562ccf-818f-48b5-8cf3-1806c5b8bfac
 language: java
 install:
 - mvn install
